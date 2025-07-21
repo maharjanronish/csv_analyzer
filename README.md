@@ -30,7 +30,7 @@ Its a **`Python`** project used to analyze the csv datas along with visual repre
 1. **Clone this repository:**
 
    ```bash
-   git clone git@github.com:maharjanronish/csv_analyzer.git
+   git clone https://github.com/maharjanronish/csv_analyzer.git
 
    cd csv-analyzer
    ```
