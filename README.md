@@ -46,10 +46,10 @@ Its a **`Python`** project used to analyze the csv datas along with visual repre
 
 ## ScreenShots Of the CSV Analyzer
 
-1. <img src="pictures/screenshot1.png" alt="Screenshot 1" width="500" />
+1. <img src="pictures/Screenshot1.png" alt="Screenshot 1" width="500" />
 
-2. <img src="pictures/screenshot2.png" alt="Screenshot 2" width="500" />
+2. <img src="pictures/Screenshot2.png" alt="Screenshot 2" width="500" />
 
-3. <img src="pictures/screenshot3.png" alt="Screenshot 3" width="500" />
+3. <img src="pictures/Screenshot3.png" alt="Screenshot 3" width="500" />
 
-4. <img src="pictures/screenshot4.png" alt="Screenshot 4" width="500" />
+4. <img src="pictures/Screenshot4.png" alt="Screenshot 4" width="500" />
